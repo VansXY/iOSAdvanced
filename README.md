@@ -2,6 +2,7 @@
 iOS 进阶之路
 
 ### 实用技术
+
 	数据存储：Plish、Preference、NSKeyedArchiver、SQLite3、CoreData、第三方存储
 	多媒体：音频、视频、流媒体、相册、相机、滤镜、讯飞语音
 	地图定位：CoreLocation、Mapkit、自定义大头针视图、百度地图
@@ -14,6 +15,7 @@ iOS 进阶之路
   
   
 ### React Native
+
 	样式、布局、手势响应系统、辅助功能
 	Native 模块
 	Native UI 组件
@@ -23,6 +25,7 @@ iOS 进阶之路
   
   
 ### Swift
+
 	基本运算符、字符串和字符、集合类型、控制流
 	函数、闭包、枚举、类和结构体、属性、方法、下标
 	继承、构造过程、析构过程、自动引用计数、可选链
@@ -31,10 +34,24 @@ iOS 进阶之路
   
   
 ### 高级
+
 	ReactiveCocoa
 	蓝牙4.0+运动手环
 	智能家居（OR 门禁）
+  热更新
 	XMM
 	人脸识别、指纹识别、3DTouch、APP Pay
 	HomeKit、Extension
 	iOS9与 Xcode7新特性、逆向工程
+  
+  
+### 底层
+
+  RunLoop 与 Runtime
+  Runtime 强大之处
+  
+  
+### 前沿
+
+  区块链
+  人工智能与 CoreML
