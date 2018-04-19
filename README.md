@@ -38,7 +38,7 @@ iOS 进阶之路
 	ReactiveCocoa
 	蓝牙4.0+运动手环
 	智能家居（OR 门禁）
-  热更新
+  	热更新
 	XMM
 	人脸识别、指纹识别、3DTouch、APP Pay
 	HomeKit、Extension
@@ -47,11 +47,11 @@ iOS 进阶之路
   
 ### 底层
 
-  RunLoop 与 Runtime
-  Runtime 强大之处
+  	RunLoop 与 Runtime
+  	Runtime 强大之处
   
   
 ### 前沿
 
-  区块链
-  人工智能与 CoreML
+  	区块链
+  	人工智能与 CoreML
